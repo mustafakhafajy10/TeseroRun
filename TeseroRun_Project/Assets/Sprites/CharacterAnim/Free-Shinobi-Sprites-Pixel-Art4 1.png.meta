@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: b1cd6342996159a4198699342918413f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 996
+        width: 7
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431bf41a670756f4195abf696d7aa828
+      internalID: -112968279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 996
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0edad7a4a131ef49a22c76baac524c9
+      internalID: 809238208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 996
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90222855fd4374cb9330127f68a673
+      internalID: -238393968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 996
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7e60e6978674a4793af0d4ea47e80f
+      internalID: -2030981518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 993
+        width: 92
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda4eb029a1aa67428a3872b275f1745
+      internalID: -1580042401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 993
+        width: 92
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9472c6ad6dbc46a1271a3bc8c0766
+      internalID: 641922041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 992
+        width: 92
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa8368aec5b5c24182da293d537019e
+      internalID: -170933068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_7
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 992
+        width: 92
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f362cceb46b8e28498a380a72658f8cb
+      internalID: 1003067416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_8
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 993
+        width: 92
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea98ad482012ad4db24533146ffaf47
+      internalID: 521936373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_9
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 993
+        width: 92
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3fcc14384c08848a7ed89f0e271d95
+      internalID: -1210867970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 776
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b844058fc4a32e541b573e4bee2a7073
+      internalID: 1203335984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 776
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e031d786a9e2944a610babff273c23
+      internalID: -160346621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 776
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e41d0ef8cc3064b945302f96c8d402
+      internalID: 950296853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 776
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9232876ca56ab4b8a209f3de758417
+      internalID: 1673842881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 776
+        width: 96
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fb499dba3f6d24c8dde54e881dee3c
+      internalID: 1294709449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 776
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f34fc6ed106c41903f863c1495a78
+      internalID: -1968165850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_16
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 776
+        width: 102
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f6b16fcee2d3e45b709930840e46d0
+      internalID: -1046792210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 776
+        width: 99
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204ec6780604744c833d05561b9cb66
+      internalID: 1902397269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_18
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 776
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bf25dd540ff7349aaca1568f2cf421
+      internalID: 427924080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_19
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 776
+        width: 97
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f28ecc83f9d6ce4c90a48ccb1233d49
+      internalID: 1968484394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_20
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 776
+        width: 104
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856692c9c93a36644872ec31a1db27f7
+      internalID: 181392586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_21
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 776
+        width: 99
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc027e2c05f614d84106f0431c5819
+      internalID: 376670733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 544
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe027a61808914686f6e592c21165c
+      internalID: 38869406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 544
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded20362061ecb49b705a4fde32e243
+      internalID: -677301210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 544
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a752dc28867c148b0a9c240e8596c0
+      internalID: 328464080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 544
+        width: 102
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07a098f75824804495598ecf26e615f
+      internalID: 1160217811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 544
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090e58542e776c440a9e9f6626468283
+      internalID: 2058009792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 544
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15990129e58ef242ba0eaf63a382182
+      internalID: 1317169022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_28
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 544
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3649293d3e27a3c409e61b51aeeed8a8
+      internalID: -839142818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_29
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 544
+        width: 103
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8201cb7de9fcc4db0f99ef286fd076
+      internalID: 512346931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_30
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 544
+        width: 102
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a2620fa0403fd41b703fae8e2b5cb7
+      internalID: 1011504698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_31
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 544
+        width: 116
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e864487f585ee345952f8a436f18db2
+      internalID: 266364045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_32
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 544
+        width: 102
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495356f57a6035143a82c72009e305df
+      internalID: -1111455484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 327
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dacf537afeb054409e3b25e723d64fd
+      internalID: 1941297672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_34
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 332
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49968ef262e0215458ed172a6777a5c1
+      internalID: -774766011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 331
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54d9edae3b3ddd4ca60dc7d1ee5ae11
+      internalID: -1513820433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 332
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c86050c0495f64aa7d9367b843666e
+      internalID: 1465376103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 328
+        width: 131
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf62e7b927069c47814b0ed15f11da8
+      internalID: -1303860405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_38
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 328
+        width: 116
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ece752d519afa40a3b48ef9603747e
+      internalID: -463709812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_39
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 334
+        width: 106
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d80e76e97139c4f8599bef1db76add
+      internalID: 449120777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_40
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 336
+        width: 107
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbac5ad7ab790f4c92ffcb48b375936
+      internalID: -383416091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_41
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 344
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0928401edebf4a8cdcd9d06563cf4
+      internalID: 617217190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_42
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 336
+        width: 106
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41056fa055b349d4d8dbaaa5cc3d255d
+      internalID: -1826425060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_43
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 331
+        width: 109
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379e0ed579fda6b4c853a2b2b4e01a47
+      internalID: -82806889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_44
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 328
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547f15a68aff1ea46883c31d6587df58
+      internalID: 1957671585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 120
+        width: 106
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335be9f6db604c54b927d61bba0ef5ce
+      internalID: -898681906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 120
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f688f06d19f1c42b531de0c58c47d2
+      internalID: 1293992974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_47
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 120
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e527a7f0aac144e8c03524b282332d
+      internalID: -1560754941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_48
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 120
+        width: 126
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f6a431249574b4c81fa18bda207f50
+      internalID: -1559851252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_49
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 120
+        width: 107
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b0a184afdb2be4c8d2d118f154fb59
+      internalID: 1293305205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_50
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 182
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3e0958d656ab4897be89b80192c9a
+      internalID: 1968488688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_51
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 180
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7c1b1d9bf5fc94088414f8f07ecaed
+      internalID: 1962934743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_52
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 120
+        width: 113
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11388525899c54689aa3d9f23ed834
+      internalID: -203428575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_53
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 120
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ab897bbc7537245a98ef732a272e39
+      internalID: 1678675405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 120
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73228b4dc6506964799af6577d061647
+      internalID: 290682923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef7f3e24a0348429745eec1b09d1b3
+      internalID: -2098009693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9525611a5c2974f47a93af0b375e8471
+      internalID: 102961352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 120
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee2209c3aaf41c4389a59ef973bcd25
+      internalID: 746329874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 120
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5954e4d27eb7d4c8f8904afc1cfb1f
+      internalID: -1069186035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Shinobi-Sprites-Pixel-Art4_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 120
+        width: 11
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da41198bebf018149a7a0a7a3cf88b2e
+      internalID: -743136263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-Shinobi-Sprites-Pixel-Art4_0: -112968279
+      Free-Shinobi-Sprites-Pixel-Art4_1: 809238208
+      Free-Shinobi-Sprites-Pixel-Art4_10: 1203335984
+      Free-Shinobi-Sprites-Pixel-Art4_11: -160346621
+      Free-Shinobi-Sprites-Pixel-Art4_12: 950296853
+      Free-Shinobi-Sprites-Pixel-Art4_13: 1673842881
+      Free-Shinobi-Sprites-Pixel-Art4_14: 1294709449
+      Free-Shinobi-Sprites-Pixel-Art4_15: -1968165850
+      Free-Shinobi-Sprites-Pixel-Art4_16: -1046792210
+      Free-Shinobi-Sprites-Pixel-Art4_17: 1902397269
+      Free-Shinobi-Sprites-Pixel-Art4_18: 427924080
+      Free-Shinobi-Sprites-Pixel-Art4_19: 1968484394
+      Free-Shinobi-Sprites-Pixel-Art4_2: -238393968
+      Free-Shinobi-Sprites-Pixel-Art4_20: 181392586
+      Free-Shinobi-Sprites-Pixel-Art4_21: 376670733
+      Free-Shinobi-Sprites-Pixel-Art4_22: 38869406
+      Free-Shinobi-Sprites-Pixel-Art4_23: -677301210
+      Free-Shinobi-Sprites-Pixel-Art4_24: 328464080
+      Free-Shinobi-Sprites-Pixel-Art4_25: 1160217811
+      Free-Shinobi-Sprites-Pixel-Art4_26: 2058009792
+      Free-Shinobi-Sprites-Pixel-Art4_27: 1317169022
+      Free-Shinobi-Sprites-Pixel-Art4_28: -839142818
+      Free-Shinobi-Sprites-Pixel-Art4_29: 512346931
+      Free-Shinobi-Sprites-Pixel-Art4_3: -2030981518
+      Free-Shinobi-Sprites-Pixel-Art4_30: 1011504698
+      Free-Shinobi-Sprites-Pixel-Art4_31: 266364045
+      Free-Shinobi-Sprites-Pixel-Art4_32: -1111455484
+      Free-Shinobi-Sprites-Pixel-Art4_33: 1941297672
+      Free-Shinobi-Sprites-Pixel-Art4_34: -774766011
+      Free-Shinobi-Sprites-Pixel-Art4_35: -1513820433
+      Free-Shinobi-Sprites-Pixel-Art4_36: 1465376103
+      Free-Shinobi-Sprites-Pixel-Art4_37: -1303860405
+      Free-Shinobi-Sprites-Pixel-Art4_38: -463709812
+      Free-Shinobi-Sprites-Pixel-Art4_39: 449120777
+      Free-Shinobi-Sprites-Pixel-Art4_4: -1580042401
+      Free-Shinobi-Sprites-Pixel-Art4_40: -383416091
+      Free-Shinobi-Sprites-Pixel-Art4_41: 617217190
+      Free-Shinobi-Sprites-Pixel-Art4_42: -1826425060
+      Free-Shinobi-Sprites-Pixel-Art4_43: -82806889
+      Free-Shinobi-Sprites-Pixel-Art4_44: 1957671585
+      Free-Shinobi-Sprites-Pixel-Art4_45: -898681906
+      Free-Shinobi-Sprites-Pixel-Art4_46: 1293992974
+      Free-Shinobi-Sprites-Pixel-Art4_47: -1560754941
+      Free-Shinobi-Sprites-Pixel-Art4_48: -1559851252
+      Free-Shinobi-Sprites-Pixel-Art4_49: 1293305205
+      Free-Shinobi-Sprites-Pixel-Art4_5: 641922041
+      Free-Shinobi-Sprites-Pixel-Art4_50: 1968488688
+      Free-Shinobi-Sprites-Pixel-Art4_51: 1962934743
+      Free-Shinobi-Sprites-Pixel-Art4_52: -203428575
+      Free-Shinobi-Sprites-Pixel-Art4_53: 1678675405
+      Free-Shinobi-Sprites-Pixel-Art4_54: 290682923
+      Free-Shinobi-Sprites-Pixel-Art4_55: -2098009693
+      Free-Shinobi-Sprites-Pixel-Art4_56: 102961352
+      Free-Shinobi-Sprites-Pixel-Art4_57: 746329874
+      Free-Shinobi-Sprites-Pixel-Art4_58: -1069186035
+      Free-Shinobi-Sprites-Pixel-Art4_59: -743136263
+      Free-Shinobi-Sprites-Pixel-Art4_6: -170933068
+      Free-Shinobi-Sprites-Pixel-Art4_7: 1003067416
+      Free-Shinobi-Sprites-Pixel-Art4_8: 521936373
+      Free-Shinobi-Sprites-Pixel-Art4_9: -1210867970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
