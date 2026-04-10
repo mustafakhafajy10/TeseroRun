@@ -46,7 +46,6 @@ GameObject:
   - component: {fileID: 4724074729671191722}
   - component: {fileID: 7727700890789853661}
   - component: {fileID: 7353334467323981034}
-  - component: {fileID: -1869642422084526117}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -244,25 +243,3 @@ MonoBehaviour:
   knife: {fileID: 7750370467848080202, guid: 9e33cf8bf2fa071409a531b785bb9709, type: 3}
   knifeDamage: 50
   swingDuration: 0.2
---- !u!114 &-1869642422084526117
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8708269061105986340}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 718d9197415b63143a73ad4d2f73c3dc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  coins: 20
-  speedBoostButton: {fileID: 0}
-  jumpBoostButton: {fileID: 0}
-  damageBoostButton: {fileID: 0}
-  healButton: {fileID: 0}
-  speedBoostMultiplier: 1.5
-  jumpBoostMultiplier: 1.5
-  damageBoostAmount: 10
-  healAmount: 20
-  abilityDuration: 5
